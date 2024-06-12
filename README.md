@@ -1,0 +1,2 @@
+Recomendo usar o script para separar as planilhas em arquivos xlsx de 500 em 500 linhas pois qualquer problema com conexão, erro, ou outras enventualidade pode interromper a execução do código e perder todo o trabalho de tradução realizado antes de salvar o arquivo final.
+As planilhas com tradução devem ser revisadas após tradução pois google translator muitas vezes retorna traduções muito erradas.
