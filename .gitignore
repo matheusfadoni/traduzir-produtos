@@ -1,0 +1,23 @@
+# Arquivos de ambiente
+.env
+.env.*
+
+# Credenciais e chaves
+credentials-*.json
+
+# Diretórios de cache Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+log_*.txt
+log_execucao.txt
+
+# Configurações locais de IDE
+.vscode/
+.idea/
+
+# Outros
+.DS_Store
+.git/
